@@ -1,4 +1,4 @@
-# hiring-algorithms
+# Hiring Algorithms
 
 ## Goal
 Use python loops, variables, and conditionals to explore these questions:
