@@ -16,7 +16,7 @@ Use python loops, variables, and conditionals to explore these questions:
 
 ## Part 1
 1. Read the instructions for [Part 1 here](https://github.com/woodstockcs/hiring-algorithms/blob/master/hiring_part1.pdf).
-1. Access the mentioned code files [here (`hiring.py`)](https://raw.githubusercontent.com/woodstockcs/hiring-algorithms/master/hiring.py) and here [(`lottaApps.py`)](https://raw.githubusercontent.com/woodstockcs/hiring-algorithms/master/lottaApps.py).
+1. Access the mentioned code files [here (`hiring.py`)](https://raw.githubusercontent.com/woodstockcs/hiring-algorithms/master/hiring.py) and [here (`lottaApps.py`)](https://raw.githubusercontent.com/woodstockcs/hiring-algorithms/master/lottaApps.py).
 1. Update the `hiring.py` file as described in the instructions.
 1. When you are done, head back to google classroom and write up the answers for Part 1 in the assignment doc. *Do not turn in this doc yet, because you'll use it in part 2 below.*
 
